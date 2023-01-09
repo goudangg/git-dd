@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("HELLO version2");
         System.out.println("HELLO version3");
         System.out.println("master test");
+        System.out.println("hot-fix");
     }
 }
